@@ -1,0 +1,21 @@
+/*
+* Moira Gervay
+* My Favorite Things
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { background-color: papayawhip
+
+} 
+
+img { width: 100px; height: 150px;} 
+#dogs { width: 250px; height: 200px;} 
+#microphone { width: 450px; height: 200px;} 
+figure {float: right;} 
